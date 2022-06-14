@@ -10,4 +10,5 @@ int length(struct Node* head )
         i++;
     }
     return i;
+     //used to find length
 }
